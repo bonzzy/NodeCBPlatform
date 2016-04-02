@@ -1,0 +1,30 @@
+{
+  "name": "cbplatform",
+  "version": "1.0.0",
+  "description": "Node Platform",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bonzzy/NodeCBPlatform.git"
+  },
+  "keywords": [
+    "node",
+    "platform",
+    "creator"
+  ],
+  "author": "Tomislav Fabeta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bonzzy/NodeCBPlatform/issues"
+  },
+  "homepage": "https://github.com/bonzzy/NodeCBPlatform#readme",
+  "dependencies": {
+    "underscore": "^1.8.3"
+  }
+}
